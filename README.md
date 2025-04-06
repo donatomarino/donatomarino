@@ -19,5 +19,9 @@ Estudiante de Desarrollo de Aplicaciones Web, proactivo y adaptable, con habilid
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=donatomarino&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## Connect with me:
+<a href="https://linkedin.com/in/www.linkedin.com/in/donato-marino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/donato-marino" height="30" width="40" /></a>
+</p>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=donatomarino&icon=0&color=0)](https://visitcount.itsvg.in)
