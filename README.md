@@ -35,5 +35,3 @@ Estudiante de Desarrollo de Aplicaciones Web, proactivo y adaptable, con habilid
 
 ## 🌐 Conecta conmigo:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/donato_89949) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/donato-marino/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:donato_8@icloud.com) 
----
-[![](https://visitcount.itsvg.in/api?id=donatomarino&icon=0&color=0)](https://visitcount.itsvg.in)
