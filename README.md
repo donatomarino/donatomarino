@@ -27,6 +27,8 @@ Estudiante de Desarrollo de Aplicaciones Web, proactivo y adaptable, con habilid
   - 📅 **Fechas**: 2013-2018
 <br><br>
 
+## Proyecto final Certificación: <a href="https://github.com/donatomarino/MERN-DMusic">DMusic - Biblioteca Musical </a>
+
 ## 📊 Estadísticas de GitHub
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=donatomarino&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br><br>
