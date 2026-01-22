@@ -48,6 +48,7 @@ Estudiante de Desarrollo de Aplicaciones Web, proactivo y adaptable, con habilid
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=plastic&logo=intellij-idea&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-%23172BF4.svg?style=plastic&logo=confluence&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%230079BF.svg?style=plastic&logo=trello&logoColor=white)
