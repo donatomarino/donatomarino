@@ -53,7 +53,6 @@ Estudiante de Desarrollo de Aplicaciones Web, proactivo y adaptable, con habilid
 ![Trello](https://img.shields.io/badge/Trello-%230079BF.svg?style=plastic&logo=trello&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=plastic&logo=discord&logoColor=white)
 ![SCRUM](https://img.shields.io/badge/SCRUM-%23000000.svg?style=plastic)
-
 <br><br>
 
 ## 🎓 Educación
