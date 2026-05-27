@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Donato</h1>
 
 ## 💫 Sobre mi:
-Estudiante de Desarrollo de Aplicaciones Web, proactivo y adaptable, con habilidades para el trabajo en equipo y un fuerte compromiso con el aprendizaje continuo. <br>
+Desarrollador Full-Stack de Aplicaciones Web, proactivo y adaptable, con habilidades para el trabajo en equipo y un fuerte compromiso con el aprendizaje continuo. <br>
 ## <a href="https://portfoliodm-chi.vercel.app/" target="_blank" >Visita mi Portfolio</a> <br><br>
 
 ## 💻 Mis pilas tecnológicas y herramientas:
