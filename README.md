@@ -61,7 +61,7 @@ Desarrollador Full-Stack de Aplicaciones Web, proactivo y adaptable, con habilid
 - 📘 **Certificado de profesionalidad Nivel 5 (Desarrollo de aplicaciones con tecnología web)**
   - 🏫 **Institución**: Centro Digital San Blas
   - 📍 **Ubicación**: Spain
-  - 📅 **Fechas**: 2024 – 2026
+  - 📅 **Fechas**: 2024 – 2025
     <br>
 
 - 📘 **Grado Superior DAW**
