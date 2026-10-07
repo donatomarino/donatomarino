@@ -10,7 +10,7 @@ Desarrollador Full-Stack con experiencia en el desarrollo y mantenimiento de apl
 ### 👨‍💻 Desarrollador Backend — UST, Madrid
 📅 **Septiembre de 2025 – Actualidad**
 
-- Desarrollo y mantenimiento de servicios backend para una plataforma interna del cliente **BBVA** orientada a la gestión de productos.
+- Desarrollo y mantenimiento de servicios backend para una plataforma interna de **BBVA** orientada a la gestión de productos.
 - Implementación de soluciones utilizando **Spring Boot**.
 - Resolución de incidencias y evolución de funcionalidades existentes.
 - Uso de **Git** para el control de versiones.
