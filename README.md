@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Donato</h1>
 
 ## 💫 Sobre mi:
-Desarrollador Full-Stack con experiencia en el desarrollo y mantenimiento de aplicaciones web y servicios backend. Actualmente trabajo con **Spring Boot**, y cuento también con experiencia en **React**, **Laravel**, **MySQL**, **PostgreSQL** y metodologías ágiles. Soy una persona proactiva, adaptable y comprometida con el aprendizaje continuo y la creación de soluciones de calidad. <br> <br>
+Desarrollador Full-Stack con experiencia en el desarrollo y mantenimiento de aplicaciones web y servicios backend. Actualmente trabajo con **Spring Boot**, y cuento también con experiencia en **React**, **Laravel**, **MySQL**, **PostgreSQL** y metodologías ágiles. Soy una persona proactiva, adaptable y comprometida con el aprendizaje continuo y la creación de soluciones de calidad. <br>
 
 [Visita mi Portfolio](https://portfoliodm-chi.vercel.app/)
 
