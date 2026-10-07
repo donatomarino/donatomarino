@@ -1,8 +1,8 @@
 <h1>Hi 👋, I'm Donato</h1>
 
 ## 💫 Sobre mi:
-Desarrollador Full-Stack de Aplicaciones Web, proactivo y adaptable, con habilidades para el trabajo en equipo y un fuerte compromiso con el aprendizaje continuo. <br>
-## <a href="https://portfoliodm-chi.vercel.app/" target="_blank" >Visita mi Portfolio</a> <br><br>
+Desarrollador Full-Stack con experiencia en el desarrollo y mantenimiento de aplicaciones web y servicios backend. Actualmente trabajo con **Spring Boot**, y cuento también con experiencia en **React**, **Laravel**, **MySQL**, **PostgreSQL** y metodologías ágiles. Soy una persona proactiva, adaptable y comprometida con el aprendizaje continuo y la creación de soluciones de calidad. <br>
+[Visita mi Portfolio](https://portfoliodm-chi.vercel.app/)
 
 ## 💻 Mis pilas tecnológicas y herramientas:
 
@@ -55,6 +55,29 @@ Desarrollador Full-Stack de Aplicaciones Web, proactivo y adaptable, con habilid
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=plastic&logo=discord&logoColor=white)
 ![SCRUM](https://img.shields.io/badge/SCRUM-%23000000.svg?style=plastic)
 <br><br>
+
+## 💼 Experiencia profesional
+
+### 👨‍💻 Desarrollador Backend — UST, Madrid
+📅 **Septiembre de 2025 – Actualidad**
+
+- Desarrollo y mantenimiento de servicios backend para una plataforma interna orientada a la gestión de productos.
+- Implementación de soluciones utilizando **Spring Boot**.
+- Resolución de incidencias y evolución de funcionalidades existentes.
+- Uso de **Git** para el control de versiones.
+- Gestión y seguimiento de tareas mediante **Jira**.
+- Colaboración en equipos ágiles.
+- Integración con otros servicios, garantizando la calidad y consistencia del código.
+
+### 👨‍💻 Desarrollador Full-Stack — Dentsu Creative, Madrid
+📅 **Marzo de 2025 – Agosto de 2025** · Contrato de formación
+
+- Desarrollo y mantenimiento de aplicaciones web.
+- Creación de interfaces frontend utilizando **React**, **Vite** y **Bootstrap**.
+- Implementación de funcionalidades backend con **Laravel**.
+- Desarrollo de lógica de negocio y configuración de rutas.
+- Configuración y despliegue de aplicaciones en entornos locales mediante **XAMPP**.
+- Gestión de bases de datos utilizando **MySQL**.
 
 ## 🎓 Educación
 
