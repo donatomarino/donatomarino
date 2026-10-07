@@ -10,13 +10,13 @@ Desarrollador Full-Stack con experiencia en el desarrollo y mantenimiento de apl
 ### 👨‍💻 Desarrollador Backend — UST, Madrid
 📅 **Septiembre de 2025 – Actualidad**
 
-- Desarrollo y mantenimiento de servicios backend para una plataforma interna orientada a la gestión de productos.
+- Desarrollo y mantenimiento de servicios backend para una plataforma interna del cliente **BBVA** orientada a la gestión de productos.
 - Implementación de soluciones utilizando **Spring Boot**.
 - Resolución de incidencias y evolución de funcionalidades existentes.
 - Uso de **Git** para el control de versiones.
-- Gestión y seguimiento de tareas mediante **Jira**.
-- Colaboración en equipos ágiles.
-- Integración con otros servicios, garantizando la calidad y consistencia del código.
+- Gestión y seguimiento de tareas mediante **Jira** en un entorno ágil.
+- Colaboración con equipos multidisciplinares para ofrecer soluciones eficientes y mantenibles.
+- Aseguramiento de la calidad, consistencia y estabilidad del código en entornos de producción.
 
 ### 👨‍💻 Desarrollador Full-Stack — Dentsu Creative, Madrid
 📅 **Marzo de 2025 – Agosto de 2025** · Contrato de formación
