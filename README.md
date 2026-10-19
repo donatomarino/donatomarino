@@ -102,7 +102,7 @@ Desarrollador Full-Stack con experiencia en el desarrollo y mantenimiento de apl
 ## Proyecto final Certificación: <a href="https://dmusic-front.vercel.app/">DMusic - Biblioteca Musical </a>
 
 ## 📊 Estadísticas de GitHub
-![Top Languages](https://vani-stats.vercel.app/api?username=donatomarino&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donatomarino&theme=tokyonight&layout=compact&langs_count=10)
 
 ## 🌐 Conecta conmigo:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/donato_89949) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/donato-marino/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:donato_8@icloud.com) 
